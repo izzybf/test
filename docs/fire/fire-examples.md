@@ -9,7 +9,7 @@ Charmander, Charmeleon, Charizard
 - Growlithe, Arcanine
 - Ponyta, Rapidash
 - Magmar
-- Flareon
+- Flareon 
 
 ## Legendary
 - Moltres
